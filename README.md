@@ -5,7 +5,7 @@ Hello, it is me, the creator of this thing! I hope you like my creation. This is
 ### List of materials
 
 - Jumper wires
-- Arduino Uno / Nano
+- Arduino Uno, Nano, Mega or compatible
 - MAX7219 4-in-1 display or compatible
 
 ### How to build
